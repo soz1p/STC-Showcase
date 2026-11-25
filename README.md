@@ -34,7 +34,8 @@
 전소진 · 서지완 · 계희원  
 한국컴퓨터그래픽스학회 논문지 31(4), 21–31, 2025.
 
-[Paper PDF](papers/stc-2025.pdf) · [KCI · Published paper](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003238324) · [DOI](https://doi.org/10.15701/kcgs.2025.31.4.21)
+[Paper PDF](papers/stc-2025.pdf) · [KCI · Published paper](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003238324)  
+DOI: 10.15701/kcgs.2025.31.4.21
 
 ## Approach
 
