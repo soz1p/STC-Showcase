@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-d0628a?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/CUDA-d0628a?style=flat-square" alt="CUDA"> <img src="https://img.shields.io/badge/PBD-d0628a?style=flat-square" alt="PBD"> <img src="https://img.shields.io/badge/Qt%206-d0628a?style=flat-square" alt="Qt 6"> <img src="https://img.shields.io/badge/OpenGL-d0628a?style=flat-square" alt="OpenGL"> <img src="https://img.shields.io/badge/CMake-d0628a?style=flat-square" alt="CMake">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-d0628a?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/CUDA-d0628a?style=flat-square" alt="CUDA"> <img src="https://img.shields.io/badge/PBD-d0628a?style=flat-square" alt="PBD"> <img src="https://img.shields.io/badge/Qt%206-d0628a?style=flat-square" alt="Qt 6"> <img src="https://img.shields.io/badge/OpenGL-d0628a?style=flat-square" alt="OpenGL"> <img src="https://img.shields.io/badge/CMake-d0628a?style=flat-square" alt="CMake">
 </p>
 
 > **핵심 기여** &nbsp; 피부 인장 반응을 표현하는 새로운 PBD 제약 STC를 제안하고 구현해, 제1저자로 학술지 논문을 게재했습니다.
